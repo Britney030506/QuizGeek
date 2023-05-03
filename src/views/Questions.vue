@@ -7,7 +7,7 @@ const questions = ref([
     answer: 0,
     options: ["1993", "1997", "1995", "1991"],
     selected: null,
-    image: "../../src/assets/jurassic-park.jpg",
+    image: "https://i.imgur.com/vUqjx7y.jpg",
   },
 
   {
@@ -15,7 +15,7 @@ const questions = ref([
     answer: 1,
     options: ["New York", "Nebraska", "Texas", "Los Angeles"],
     selected: null,
-    image: "../../src/assets/penny.jpg",
+    image: "https://i.imgur.com/pjA6dTH.jpg",
   },
 
   {
@@ -23,7 +23,7 @@ const questions = ref([
     answer: 0,
     options: ["Lucille", "Lubelly", "Max Power"],
     selected: null,
-    image: "../../src/assets/negan.jpg",
+    image: "https://i.imgur.com/DJDh8qF.jpg",
   },
 
   {
@@ -31,7 +31,7 @@ const questions = ref([
     answer: 2,
     options: ["Vibranium", "Meteorium", "Amazonium", "Adamantium"],
     selected: null,
-    image: "../../src/assets/wonder-woman.jpg",
+    image: "https://i.imgur.com/0pnxaIJ.jpg",
   },
 
   {
@@ -44,7 +44,7 @@ const questions = ref([
       "Batt",
     ],
     selected: null,
-    image: "../../src/assets/darth-vader.jpg",
+    image: "https://i.imgur.com/MrSCjsC.jpg",
   },
 
   {
@@ -58,7 +58,7 @@ const questions = ref([
       "La Piedra Filosofal (2001)",
     ],
     selected: null,
-    image: "../../src/assets/harry-potter.jpg",
+    image: "https://i.imgur.com/gi7zXT8.jpg",
   },
 
   {
@@ -67,7 +67,7 @@ const questions = ref([
     answer: 1,
     options: ["World of Warcraft", "Dungeons & Dragons", "Final Fantasy"],
     selected: null,
-    image: "../../src/assets/Gamer.jpg",
+    image: "https://i.imgur.com/SmPEidC.jpg",
   },
 
   {
@@ -79,7 +79,7 @@ const questions = ref([
       "Really Popular Geek",
     ],
     selected: null,
-    image: "../../src/assets/juegos-rpg.jpg",
+    image: "https://i.imgur.com/aiWWZqj.jpg",
   },
 
   {
@@ -88,7 +88,7 @@ const questions = ref([
     answer: 0,
     options: ["Link", "Zelda", "Ganon"],
     selected: null,
-    image: "../../src/assets/link.jpg",
+    image: "https://i.imgur.com/UlAyxVt.jpg",
   },
 
   {
@@ -100,7 +100,7 @@ const questions = ref([
       "Un mensaje oculto en una película, videojuego o software",
     ],
     selected: null,
-    image: "../../src/assets/Gamer.jpg",
+    image: "https://i.imgur.com/SmPEidC.jpg",
   },
 ]);
 const quizCompleted = ref(false);
